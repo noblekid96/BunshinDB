@@ -25,3 +25,5 @@ fields:
     maxSize: 250
   label: image
   description: item image
+pages:
+- content/products/lakewood.md
