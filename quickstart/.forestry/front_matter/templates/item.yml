@@ -25,7 +25,3 @@ fields:
     maxSize: 250
   label: image
   description: item image
-pages:
-- content/products/bubbletea.md
-- content/products/lakewood.md
-- content/products/mcspicy.md
