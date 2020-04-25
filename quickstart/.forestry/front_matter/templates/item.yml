@@ -26,4 +26,5 @@ fields:
   label: image
   description: item image
 pages:
+- quickstart/content/products/bubbletea.md
 - quickstart/content/products/lakewood.md
